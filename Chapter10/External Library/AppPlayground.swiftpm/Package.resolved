@@ -1,0 +1,15 @@
+{
+  "originHash" : "f888de8bf831096d48699f087a3a94006829d6d02096cfbe523fa26737917c10",
+  "pins" : [
+    {
+      "identity" : "starratingviewswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/magickworx/StarRatingViewSwiftUI",
+      "state" : {
+        "revision" : "7a177982b0d80c5c64e97deb6180380ad139293a",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
